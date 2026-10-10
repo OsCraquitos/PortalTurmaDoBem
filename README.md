@@ -21,8 +21,7 @@
 
 O **Portal Turma do Bem** é uma plataforma web voltada para promover o acesso à saúde bucal, conectando voluntários, beneficiários e apoiadores de causas sociais relacionadas à odontologia.
 
-O sistema apresenta a proposta da organização, fornece informações transparentes, assegura navegação fluida entre seções desktop e disponibiliza canais de comunicação estruturados.
-
+O sistema apresenta a proposta da organização, fornece informações transparentes, assegura navegação fluida entre seções desktop e disponibiliza canais de comunicação estruturados
 ---
 
 ## 💡 2. Problema Abordado e Solução
@@ -94,11 +93,11 @@ Identificação dos membros da equipe de desenvolvimento, incluindo nomes comple
 
 | Foto | Nome Completo | RM | Turma | Redes / Links |
 | --- | --- | --- | --- | --- |
-| ![Gustavo](Img/Gustavo.png) | Gustavo [Almeida] | RM [576039] | [1TDSPR] | [GitHub](https://github.com/goliveiraalmeida) / [LinkedIn](https://www.linkedin.com/in/goliveiraalmeida/) |
-| ![Jonatas](Img/Jonatas.png) | Jonatas [Ferreira] | RM [576943] | [1TDSPR] | [GitHub](https://github.com/jonatazf) / [LinkedIn](https://www.linkedin.com/in/jonatazf/) |
-| ![Lucca](Img/Lucca.png) | Lucca [Floriano] | RM [575494] | [1TDSPR] | [GitHub](https://github.com/luccafloriano-7) / [LinkedIn](https://github.com/luccafloriano-7) |
-| ![Luiz](Img/Miguel.png) | Luiz [Azevedo] | RM [575245] | [1TDSPR] | [GitHub](https://github.com/lazevedo2000-sudo) / [LinkedIn](https://github.com/lazevedo2000-sudo) |
-| ![Ryan](Img/Ryan.png) | Ryan [Prandi] | RM [576358] | [1TDSPR] | [GitHub](https://github.com/prandiryan) / [LinkedIn](https://www.linkedin.com/in/ryan-prandi) |
+| <img src="Img/Gustavo.png" width="50px" height="50px" alt="Gustavo"> | Gustavo [Almeida] | RM [576039] | [1TDSPR] | [GitHub](https://github.com/goliveiraalmeida) / [LinkedIn](https://www.linkedin.com/in/goliveiraalmeida/) |
+| <img src="Img/Jonatas.png" width="50px" height="50px" alt="Jonatas"> | Jonatas [Ferreira] | RM [576943] | [1TDSPR] | [GitHub](https://github.com/jonatazf) / [LinkedIn](https://www.linkedin.com/in/jonatazf/) |
+| <img src="Img/Lucca.png" width="50px" height="50px" alt="Lucca"> | Lucca [Floriano] | RM [575494] | [1TDSPR] | [GitHub](https://github.com/luccafloriano-7) / [LinkedIn](https://github.com/luccafloriano-7) |
+| <img src="Img/Miguel.png" width="50px" height="50px" alt="Miguel"> | Luiz [Azevedo] | RM [575245] | [1TDSPR] | [GitHub](https://github.com/lazevedo2000-sudo) / [LinkedIn](https://github.com/lazevedo2000-sudo) |
+| <img src="Img/ryan.png" width="50px" height="50px" alt="Ryan"> | Ryan [Prandi] | RM [576358] | [1TDSPR] | [GitHub](https://github.com/prandiryan) / [LinkedIn](https://www.linkedin.com/in/ryan-prandi) |
 
 ---
 
@@ -110,10 +109,19 @@ O projeto utiliza elementos gráficos armazenados na pasta `Img/`, traduzindo a 
 
 ### Capturas de Tela da Interface
 
+Página inicial do Portal Turma do Bem
 ![Página inicial do Portal Turma do Bem](Img/home.png)
+
+Quem Somos
 ![Quem Somos](Img/quemsomos.png)
+
+Sobre
 ![Sobre](Img/sobre.png)
+
+Perguntas Frequentes (FAQ)
 ![Perguntas Frequentes (FAQ)](Img/faq.png)
+
+Contato
 ![Contato](Img/contato.png)
 
 ---
