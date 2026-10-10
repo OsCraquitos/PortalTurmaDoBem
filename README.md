@@ -22,6 +22,7 @@
 O **Portal Turma do Bem** é uma plataforma web voltada para promover o acesso à saúde bucal, conectando voluntários, beneficiários e apoiadores de causas sociais relacionadas à odontologia.
 
 O sistema apresenta a proposta da organização, fornece informações transparentes, assegura navegação fluida entre seções desktop e disponibiliza canais de comunicação estruturados
+
 ---
 
 ## 💡 2. Problema Abordado e Solução
@@ -36,7 +37,7 @@ O sistema apresenta a proposta da organização, fornece informações transpare
 De acordo com as diretrizes técnicas da Sprint 01:
 
 - **HTML5 Semântico:** Estruturação lógica das páginas com elementos como `<header>`, `<nav>`, `<main>`, `<section>` e `<footer>`.
-- **CSS3 Puro:** Estilização sem utilização de frameworks externos, como Bootstrap ou Tailwind CSS[cite: 4], estruturada para resoluções desktop (`≥992px` e `≥1300px`).
+- **CSS3 Puro:** Estilização sem utilização de frameworks externos.
 - **Git e GitHub:** Ferramentas de versionamento, controle de histórico e colaboração em equipe.
 
 ---
@@ -93,11 +94,11 @@ Identificação dos membros da equipe de desenvolvimento, incluindo nomes comple
 
 | Foto | Nome Completo | RM | Turma | Redes / Links |
 | --- | --- | --- | --- | --- |
-| <img src="Img/Gustavo.png" width="50px" height="50px" alt="Gustavo"> | Gustavo [Almeida] | RM [576039] | [1TDSPR] | [GitHub](https://github.com/goliveiraalmeida) / [LinkedIn](https://www.linkedin.com/in/goliveiraalmeida/) |
-| <img src="Img/Jonatas.png" width="50px" height="50px" alt="Jonatas"> | Jonatas [Ferreira] | RM [576943] | [1TDSPR] | [GitHub](https://github.com/jonatazf) / [LinkedIn](https://www.linkedin.com/in/jonatazf/) |
-| <img src="Img/Lucca.png" width="50px" height="50px" alt="Lucca"> | Lucca [Floriano] | RM [575494] | [1TDSPR] | [GitHub](https://github.com/luccafloriano-7) / [LinkedIn](https://github.com/luccafloriano-7) |
-| <img src="Img/Miguel.png" width="50px" height="50px" alt="Miguel"> | Luiz [Azevedo] | RM [575245] | [1TDSPR] | [GitHub](https://github.com/lazevedo2000-sudo) / [LinkedIn](https://github.com/lazevedo2000-sudo) |
-| <img src="Img/ryan.png" width="50px" height="50px" alt="Ryan"> | Ryan [Prandi] | RM [576358] | [1TDSPR] | [GitHub](https://github.com/prandiryan) / [LinkedIn](https://www.linkedin.com/in/ryan-prandi) |
+| <img src="Img/Gustavo.png" width="80px" height="120px" alt="Gustavo"> | Gustavo Almeida | 576039 | 1TDSPR | [GitHub](https://github.com/goliveiraalmeida) / [LinkedIn](https://www.linkedin.com/in/goliveiraalmeida/) |
+| <img src="Img/Jonatas.png" width="80px" height="120px" alt="Jonatas"> | Jonatas Ferreira | 576943 | 1TDSPR | [GitHub](https://github.com/jonatazf) / [LinkedIn](https://www.linkedin.com/in/jonatazf/) |
+| <img src="Img/Lucca.png" width="80px" height="120px" alt="Lucca"> | Lucca Floriano | 575494 | 1TDSPR | [GitHub](https://github.com/luccafloriano-7) / [LinkedIn](https://github.com/luccafloriano-7) |
+| <img src="Img/Miguel.png" width="80px" height="120px" alt="Miguel"> | Luiz Azevedo | 575245 | 1TDSPR | [GitHub](https://github.com/lazevedo2000-sudo) / [LinkedIn](https://github.com/lazevedo2000-sudo) |
+| <img src="Img/ryan.png" width="80px" height="120px" alt="Ryan"> | Ryan Prandi | 576358 | 1TDSPR | [GitHub](https://github.com/prandiryan) / [LinkedIn](https://www.linkedin.com/in/ryan-prandi) |
 
 ---
 
