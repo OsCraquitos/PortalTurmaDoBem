@@ -129,7 +129,7 @@ Contato
 
 Acesse o código-fonte e o histórico de commits do projeto:
 
-👉 [**Repositório Oficial no GitHub**](https://github.com/lazevedo2000-sudo/Portal_Turma_do_Bem)
+👉 [**Repositório no GitHub**](https://github.com/lazevedo2000-sudo/Portal_Turma_do_Bem)
 
 ---
 
