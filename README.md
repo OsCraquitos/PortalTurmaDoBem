@@ -90,8 +90,6 @@ Portal_Turma_do_Bem/
 
 ## 👥 5. Autores e Créditos
 
-Identificação dos membros da equipe de desenvolvimento, incluindo nomes completos, RMs, turmas, fotos e links para redes profissionais.
-
 | Foto | Nome Completo | RM | Turma | Redes / Links |
 | --- | --- | --- | --- | --- |
 | <img src="Img/Gustavo.png" width="80px" height="120px" alt="Gustavo"> | Gustavo Almeida | 576039 | 1TDSPR | [GitHub](https://github.com/goliveiraalmeida) / [LinkedIn](https://www.linkedin.com/in/goliveiraalmeida/) |
