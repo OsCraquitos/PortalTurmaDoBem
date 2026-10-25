@@ -52,6 +52,8 @@ main{
     width: 100%;
 }
 .faq li{
+    border: 3px solid var(--borda-card);
+    border-radius: 8px;
     margin-bottom: 15px;
 }
 
@@ -98,11 +100,6 @@ main{
 .faq input[type=radio]:checked + label + .resposta {
     max-height: 400px;
     padding: 10px 10px 20px;
-}
-
-.faq input[type=radio]:checked + label + .resposta{
-    max-height: 400px;
-    padding: 10px 300px 20px;
 }
 
 .faq input[type=radio]:checked + label span{
